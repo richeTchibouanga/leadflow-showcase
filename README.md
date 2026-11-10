@@ -134,6 +134,7 @@ un produit complet, de l'analyse du besoin jusqu'à la mise en production, avec 
 particulière portée à la sécurité et aux tests.
 
 Je suis ouvert aux missions freelance, aux opportunités d'emploi et aux collaborations.
+🌐 **Portfolio** : [riche-tchibouanga.vercel.app](https://riche-tchibouanga.vercel.app)
 📩 Contact : via le [formulaire du site](https://leadflow-seven-roan.vercel.app/contact).
 
 ---
@@ -153,3 +154,4 @@ pipeline, follow-up tasks, analytics dashboard, team roles).
 - Built by **Jean de Dieu Riche Tchibouanga**, freelance developer in Casablanca, Morocco —
   career switcher from industrial maintenance to data & AI engineering (BHN Academy, Germany).
   Source code is private; read access available on request.
+  Portfolio: https://riche-tchibouanga.vercel.app
